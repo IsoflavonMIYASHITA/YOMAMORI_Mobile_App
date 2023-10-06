@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Yomamori Agent App for Android</string>
+<!--    <array name="permission_list">-->
+<!--        <item>Manifest.permission.READ_SMS</item>-->
+<!--        <item>Manifest.permission.READ_PHONE_NUMBERS</item>-->
+<!--        <item>Manifest.permission.READ_PHONE_STATE</item>-->
+<!--        <item>Manifest.permission.READ_CONTACTS</item>-->
+<!--        <item>Manifest.permission.READ_CALL_LOG</item>-->
+<!--        <item>Manifest.permission.ACCESS_FINE_LOCATION</item>-->
+<!--    </array>-->
+
+</resources>
